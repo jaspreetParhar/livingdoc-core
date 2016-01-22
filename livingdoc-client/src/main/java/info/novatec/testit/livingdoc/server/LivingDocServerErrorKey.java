@@ -30,7 +30,7 @@ public interface LivingDocServerErrorKey {
     public static final String RETRIEVE_FILE_FAILED = "livingdoc.server.filefailed";
 
     /**
-     * Project's errors.
+     * Project's error.
      */
     public static final String PROJECT_NOT_FOUND = "livingdoc.server.projectnotfound";
     public static final String PROJECT_ALREADY_EXISTS = "livingdoc.server.projectalreadyexist";
